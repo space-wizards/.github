@@ -1,6 +1,6 @@
 # Security Policy
 
-Thanks for helping keep Space Station 14 and it's players safe.
+Thanks for helping keep Space Station 14 and its players safe.
 
 ## Reporting a vulnerability
 
